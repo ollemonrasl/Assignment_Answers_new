@@ -1,0 +1,67 @@
+##gff-version 3
+AT1g78460	BioRuby	cttctt_repeat	636	641	.	-	.	exon_id=AT1G78460.1.exon2
+AT3g16140	BioRuby	cttctt_repeat	223	228	.	-	.	exon_id=AT3G16140.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	50	55	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	118	123	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	189	194	.	-	.	exon_id=AT4G12310.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	249	254	.	+	.	exon_id=AT5G01530.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	245	250	.	+	.	exon_id=AT5G01530.1.exon2
+AT5g58260	BioRuby	cttctt_repeat	247	252	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	250	255	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	300	305	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	386	391	.	-	.	exon_id=AT5G58260.1.exon1
+##gff-version 3
+AT3g16140	BioRuby	cttctt_repeat	223	228	.	-	.	exon_id=AT3G16140.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	50	55	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	118	123	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	189	194	.	-	.	exon_id=AT4G12310.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	245	250	.	+	.	exon_id=AT5G01530.1.exon2
+AT5g01530	BioRuby	cttctt_repeat	249	254	.	+	.	exon_id=AT5G01530.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	205	210	.	-	.	exon_id=AT5G58260.2.exon3
+AT5g58260	BioRuby	cttctt_repeat	247	252	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	250	255	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	300	305	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	247	252	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	250	255	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	300	305	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	386	391	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	513	518	.	-	.	exon_id=AT5G58260.1.exon4
+##gff-version 3
+AT3g16140	BioRuby	cttctt_repeat	223	228	.	-	.	exon_id=AT3G16140.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	952	957	.	-	.	exon_id=AT4G12310.1.exon2
+AT5g01530	BioRuby	cttctt_repeat	249	254	.	+	.	exon_id=AT5G01530.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	245	250	.	+	.	exon_id=AT5G01530.1.exon2
+AT5g58260	BioRuby	cttctt_repeat	513	518	.	-	.	exon_id=AT5G58260.1.exon4
+##gff-version 3
+AT1g78460	BioRuby	cttctt_repeat	636	641	.	-	.	exon_id=AT1G78460.1.exon2
+AT3g16140	BioRuby	cttctt_repeat	11	16	.	-	.	exon_id=AT3G16140.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	50	55	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	118	123	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	189	194	.	-	.	exon_id=AT4G12310.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	249	254	.	+	.	exon_id=AT5G01530.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	245	250	.	+	.	exon_id=AT5G01530.1.exon2
+AT5g58260	BioRuby	cttctt_repeat	247	252	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	250	255	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	300	305	.	-	.	exon_id=AT5G58260.1.exon1
+AT5g58260	BioRuby	cttctt_repeat	386	391	.	-	.	exon_id=AT5G58260.1.exon1
+##gff-version 3
+AT3g16140	BioRuby	cttctt_repeat	223	228	.	-	.	exon_id=AT3G16140.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	952	957	.	-	.	exon_id=AT4G12310.1.exon2
+AT5g01530	BioRuby	cttctt_repeat	249	254	.	+	.	exon_id=AT5G01530.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	245	250	.	+	.	exon_id=AT5G01530.1.exon2
+AT5g58260	BioRuby	cttctt_repeat	247	252	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	250	255	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	300	305	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	205	210	.	-	.	exon_id=AT5G58260.2.exon3
+##gff-version 3
+AT1g78460	BioRuby	cttctt_repeat	636	641	.	-	.	exon_id=AT1G78460.1.exon2
+AT3g16140	BioRuby	cttctt_repeat	11	16	.	-	.	exon_id=AT3G16140.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	50	55	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	118	123	.	-	.	exon_id=AT4G12310.1.exon1
+AT4g12310	BioRuby	cttctt_repeat	189	194	.	-	.	exon_id=AT4G12310.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	249	254	.	+	.	exon_id=AT5G01530.1.exon1
+AT5g01530	BioRuby	cttctt_repeat	245	250	.	+	.	exon_id=AT5G01530.1.exon2
+AT5g58260	BioRuby	cttctt_repeat	247	252	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	250	255	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	300	305	.	-	.	exon_id=AT5G58260.2.exon1
+AT5g58260	BioRuby	cttctt_repeat	205	210	.	-	.	exon_id=AT5G58260.2.exon3

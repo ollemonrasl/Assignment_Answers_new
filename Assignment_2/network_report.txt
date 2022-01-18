@@ -1,0 +1,3704 @@
+INTERACTION NETWORK REPORT
+This file contains, for each gene of the file:
+1. A list of the genes with direct interaction
+2. A list of the genes OF THE FILE with indirect interactions (1 interactor inbetween)
+3. The KEGG and GO annotations for the main gene
+
+
+
+FOR GENE AT4g27030:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0008611, P:ether lipid biosynthetic process
+GO id: GO:0046471, P:phosphatidylglycerol metabolic process
+GO id: GO:0080167, P:response to karrikin
+GO id: GO:0006636, P:unsaturated fatty acid biosynthetic process
+GO id: GO:0006631, P:fatty acid metabolic process
+
+
+
+FOR GENE AT5g54270:
+
+1. Direct interactions:
+AtMg00280
+At4g37140
+At5g12980
+At4g35350
+At1g22300
+At5g45870
+At1g10430
+At3g32920
+At4g37930
+At1g79870
+At3g44680
+At4g24220
+At4g34840
+At5g26780
+At1g69960
+At2g20160
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g35630
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0009769, P:photosynthesis, light harvesting in photosystem II
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0010119, P:regulation of stomatal movement
+GO id: GO:0009737, P:response to abscisic acid
+GO id: GO:0009635, P:response to herbicide
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0006412, P:translation
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT1g21400:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00280, KEGG pathway: Valine, leucine and isoleucine degradation
+KEGG id: ath00640, KEGG pathway: Propanoate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0009083, P:branched-chain amino acid catabolic process
+GO id: GO:0043617, P:cellular response to sucrose starvation
+GO id: GO:0009646, P:response to absence of light
+GO id: GO:0009744, P:response to sucrose
+GO id: GO:0009415, P:response to water
+
+
+
+FOR GENE AT5g19120:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0071456, P:cellular response to hypoxia
+
+
+
+FOR GENE AT2g13360:
+
+1. Direct interactions:
+At2g13360
+At3g14415
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00250, KEGG pathway: Alanine, aspartate and glutamate metabolism
+KEGG id: ath00260, KEGG pathway: Glycine, serine and threonine metabolism
+KEGG id: ath00630, KEGG pathway: Glyoxylate and dicarboxylate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+KEGG id: ath04146, KEGG pathway: Peroxisome
+
+3.2. GO annotations:
+GO id: GO:0019265, P:glycine biosynthetic process, by transamination of glyoxylate
+GO id: GO:0009853, P:photorespiration
+
+
+
+FOR GENE AT4g05180:
+
+1. Direct interactions:
+At4g25200
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009767, P:photosynthetic electron transport chain
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT1g22690:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009740, P:gibberellic acid mediated signaling pathway
+GO id: GO:0006417, P:regulation of translation
+
+
+
+FOR GENE AT2g45170:
+
+1. Direct interactions:
+At3g45240
+At1g66240
+At4g17190
+At5g49970
+At3g18850
+At3g22290
+At4g33710
+At4g39200
+At2g37420
+At4g22120
+At5g24090
+At3g54840
+At3g09630
+At3g47290
+At5g14060
+Atcg00160
+At1g07180
+At5g09660
+At3g53960
+At1g74710
+At4g14350
+At5g65980
+At1g25155
+At5g15450
+At5g16980
+At1g15440
+At5g13860
+At2g36170
+At2g33210
+At4g37930
+At3g13860
+At5g26780
+At5g56570
+At3g23990
+At5g56500
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g26740
+
+3.1. KEGG annotations:
+KEGG id: ath04136, KEGG pathway: Autophagy - other
+
+3.2. GO annotations:
+GO id: GO:0006914, P:autophagy
+GO id: GO:0006995, P:cellular response to nitrogen starvation
+GO id: GO:0009267, P:cellular response to starvation
+GO id: GO:0015031, P:protein transport
+GO id: GO:0045471, P:response to ethanol
+
+
+
+FOR GENE AT4g09650:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00190, KEGG pathway: Oxidative phosphorylation
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015986, P:ATP synthesis coupled proton transport
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0009773, P:photosynthetic electron transport in photosystem I
+GO id: GO:0009772, P:photosynthetic electron transport in photosystem II
+GO id: GO:0009409, P:response to cold
+GO id: GO:0035556, P:intracellular signal transduction
+
+
+
+FOR GENE AT5g55620:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+
+
+
+FOR GENE AT1g31330:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT1g80440:
+
+1. Direct interactions:
+At3g17630
+At4g13530
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g39710
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0080037, P:negative regulation of cytokinin-activated signaling pathway
+GO id: GO:2000762, P:regulation of phenylpropanoid metabolic process
+
+
+
+FOR GENE AT3g28270:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042631, P:cellular response to water deprivation
+GO id: GO:0071704, P:organic substance metabolic process
+
+
+
+FOR GENE AT4g12800:
+
+1. Direct interactions:
+At2g46820
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0007165, P:signal transduction
+
+
+
+FOR GENE AT5g04140:
+
+1. Direct interactions:
+At4g15560
+At5g23230
+At4g30110
+At1g03210
+At4g14910
+At3g61510
+At5g40610
+At4g39330
+At4g11280
+At2g22810
+At5g65800
+At1g08930
+At4g27230
+At1g01480
+At4g34230
+At2g21890
+At3g49700
+At1g23310
+At4g37980
+At3g18830
+At4g37990
+At4g00430
+At4g37930
+At2g21730
+At4g37970
+At4g33680
+At4g30840
+At4g08040
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g26740
+
+3.1. KEGG annotations:
+KEGG id: ath00630, KEGG pathway: Glyoxylate and dicarboxylate metabolism
+KEGG id: ath00910, KEGG pathway: Nitrogen metabolism
+
+3.2. GO annotations:
+GO id: GO:0019676, P:ammonia assimilation cycle
+GO id: GO:0006537, P:glutamate biosynthetic process
+GO id: GO:0097054, P:L-glutamate biosynthetic process
+GO id: GO:0009853, P:photorespiration
+GO id: GO:0080114, P:positive regulation of glycine hydroxymethyltransferase activity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009744, P:response to sucrose
+GO id: GO:0006541, P:glutamine metabolic process
+
+
+
+FOR GENE AT5g64040:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT1g29660:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0016042, P:lipid catabolic process
+GO id: GO:0009627, P:systemic acquired resistance
+
+
+
+FOR GENE AT1g15820:
+
+1. Direct interactions:
+At3g26090
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g01530
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009765, P:photosynthesis, light harvesting
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0010196, P:nonphotochemical quenching
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0009416, P:response to light stimulus
+
+
+
+FOR GENE AT1g64500:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0051017, P:actin filament bundle assembly
+GO id: GO:0009902, P:chloroplast relocation
+
+
+
+FOR GENE AT1g03130:
+
+1. Direct interactions:
+At3g48150
+At4g29930
+At5g61010
+At3g02150
+At4g19700
+At4g08150
+At5g32440
+At1g52220
+At2g23290
+At3g47620
+At5g37670
+At4g32190
+At3g08530
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g02770
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT2g20670:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0051301, P:cell division
+GO id: GO:0007059, P:chromosome segregation
+
+
+
+FOR GENE AT4g17090:
+
+1. Direct interactions:
+At5g01670
+At3g13790
+At2g42810
+At4g00490
+At3g26810
+At5g63860
+At3g52600
+At5g39320
+At3g57050
+At5g11920
+At3g12500
+At4g34230
+At1g09830
+At2g24270
+At2g21730
+At1g08490
+At1g21690
+At2g32290
+At5g63400
+At1g07920
+At5g13930
+At3g29360
+At2g42170
+At1g12820
+At1g62660
+At3g01910
+At3g13784
+At3g47010
+At5g28237
+At3g47000
+At1g26570
+At2g45300
+At3g18070
+At4g26260
+At4g33030
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g48300
+
+3.1. KEGG annotations:
+KEGG id: ath00500, KEGG pathway: Starch and sucrose metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0000024, P:maltose biosynthetic process
+GO id: GO:0009409, P:response to cold
+GO id: GO:0005983, P:starch catabolic process
+GO id: GO:0000272, P:polysaccharide catabolic process
+
+
+
+FOR GENE AT1g23740:
+
+1. Direct interactions:
+At3g06470
+At5g52640
+At2g32850
+At4g31770
+At2g46710
+At1g07180
+At3g60860
+At4g22756
+At3g08910
+At3g52560
+At1g68310
+At4g23700
+At2g29140
+At5g46150
+At5g44635
+At1g02730
+At4g33090
+At1g50060
+At4g28220
+At2g31760
+At4g33710
+At5g56510
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g45780
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009409, P:response to cold
+GO id: GO:0046856, P:phosphatidylinositol dephosphorylation
+
+
+
+FOR GENE AT2g46340:
+
+1. Direct interactions:
+At2g46340
+At5g15850
+At2g32950
+At5g11260
+At1g02340
+At4g11110
+At5g15840
+At1g53090
+At3g15354
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g15850
+
+3.1. KEGG annotations:
+KEGG id: ath04712, KEGG pathway: Circadian rhythm - plant
+
+3.2. GO annotations:
+GO id: GO:0009658, P:chloroplast organization
+GO id: GO:0010100, P:negative regulation of photomorphogenesis
+GO id: GO:0009640, P:photomorphogenesis
+GO id: GO:0010017, P:red or far-red light signaling pathway
+GO id: GO:0009585, P:red, far-red light phototransduction
+GO id: GO:2000028, P:regulation of photoperiodism, flowering
+GO id: GO:0009637, P:response to blue light
+GO id: GO:0010218, P:response to far red light
+GO id: GO:0010114, P:response to red light
+GO id: GO:0048575, P:short-day photoperiodism, flowering
+
+
+
+FOR GENE AT4g17460:
+
+1. Direct interactions:
+At1g62360
+At1g56070
+At5g17890
+At5g40950
+At5g60940
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0003006, P:developmental process involved in reproduction
+GO id: GO:0010582, P:floral meristem determinacy
+GO id: GO:0080127, P:fruit septum development
+GO id: GO:0048467, P:gynoecium development
+
+
+
+FOR GENE AT1g07010:
+
+1. Direct interactions:
+At4g17030
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0046514, P:ceramide catabolic process
+
+
+
+FOR GENE AT1g32220:
+
+1. Direct interactions:
+At3g22630
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006979, P:response to oxidative stress
+GO id: GO:1901006, P:ubiquinone-6 biosynthetic process
+GO id: GO:0006281, P:DNA repair
+GO id: GO:0045944, P:positive regulation of transcription by RNA polymerase II
+
+
+
+FOR GENE AT2g03750:
+
+1. Direct interactions:
+At4g26280
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0051923, P:sulfation
+
+
+
+FOR GENE AT3g47470:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0080167, P:response to karrikin
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009645, P:response to low light intensity stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT4g12830:
+
+1. Direct interactions:
+At5g52640
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g23740
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT5g05690:
+
+1. Direct interactions:
+At4g11330
+At4g03820
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00905, KEGG pathway: Brassinosteroid biosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0048657, P:anther wall tapetum cell differentiation
+GO id: GO:0016132, P:brassinosteroid biosynthetic process
+GO id: GO:0010268, P:brassinosteroid homeostasis
+GO id: GO:0010584, P:pollen exine formation
+GO id: GO:0009911, P:positive regulation of flower development
+GO id: GO:0010224, P:response to UV-B
+GO id: GO:0016125, P:sterol metabolic process
+
+
+
+FOR GENE AT5g64410:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0015031, P:protein transport
+GO id: GO:0080167, P:response to karrikin
+GO id: GO:0015833, P:peptide transport
+GO id: GO:0055085, P:transmembrane transport
+GO id: GO:0071555, P:cell wall organization
+GO id: GO:0030244, P:cellulose biosynthetic process
+
+
+
+FOR GENE AT2g21330:
+
+1. Direct interactions:
+At4g20360
+At4g32520
+At4g29540
+At3g11830
+At1g56400
+At5g11950
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g26740
+
+3.1. KEGG annotations:
+KEGG id: ath00010, KEGG pathway: Glycolysis / Gluconeogenesis
+KEGG id: ath00030, KEGG pathway: Pentose phosphate pathway
+KEGG id: ath00051, KEGG pathway: Fructose and mannose metabolism
+KEGG id: ath00710, KEGG pathway: Carbon fixation in photosynthetic organisms
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+KEGG id: ath01230, KEGG pathway: Biosynthesis of amino acids
+
+3.2. GO annotations:
+GO id: GO:0030388, P:fructose 1,6-bisphosphate metabolic process
+GO id: GO:0006094, P:gluconeogenesis
+GO id: GO:0006096, P:glycolytic process
+GO id: GO:0046686, P:response to cadmium ion
+GO id: GO:0071555, P:cell wall organization
+GO id: GO:0030244, P:cellulose biosynthetic process
+
+
+
+FOR GENE AT1g15980:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009773, P:photosynthetic electron transport in photosystem I
+GO id: GO:0006412, P:translation
+
+
+
+FOR GENE AT2g01890:
+
+1. Direct interactions:
+At4g23640
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00740, KEGG pathway: Riboflavin metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0016311, P:dephosphorylation
+GO id: GO:0009638, P:phototropism
+
+
+
+FOR GENE AT1g12250:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006888, P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO id: GO:0006890, P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum
+
+
+
+FOR GENE AT4g28660:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT1g52230:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT3g18890:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0015031, P:protein transport
+
+
+
+FOR GENE AT4g22890:
+
+1. Direct interactions:
+At4g02770
+At1g60950
+At5g66190
+At1g20020
+At2g05620
+Atcg00720
+At1g29060
+At1g21240
+At5g42980
+At5g37050
+At2g22425
+At3g12180
+At3g25805
+At1g17280
+At5g36120
+At5g59650
+At4g37680
+At5g25752
+At4g38690
+At1g18520
+At4g20790
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g38990
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009773, P:photosynthetic electron transport in photosystem I
+
+
+
+FOR GENE AT1g11850:
+
+1. Direct interactions:
+At5g22290
+At3g16310
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042546, P:cell wall biogenesis
+GO id: GO:0071555, P:cell wall organization
+GO id: GO:0010411, P:xyloglucan metabolic process
+
+
+
+FOR GENE AT1g37130:
+
+1. Direct interactions:
+At5g48810
+At4g10040
+At5g38640
+At4g24710
+At2g18170
+At5g65430
+At5g38480
+At4g09000
+At5g10450
+At1g78220
+At2g42590
+At1g78300
+At3g20190
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g18700
+
+3.1. KEGG annotations:
+KEGG id: ath00910, KEGG pathway: Nitrogen metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0042128, P:nitrate assimilation
+GO id: GO:0006809, P:nitric oxide biosynthetic process
+GO id: GO:0009635, P:response to herbicide
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009610, P:response to symbiotic fungus
+
+
+
+FOR GENE AT2g04039:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT3g48420:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006284, P:base-excision repair
+GO id: GO:0006665, P:sphingolipid metabolic process
+
+
+
+FOR GENE AT4g19170:
+
+1. Direct interactions:
+At5g17790
+At5g56760
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00906, KEGG pathway: Carotenoid biosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0016121, P:carotene catabolic process
+
+
+
+FOR GENE AT5g07020:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0061635, P:regulation of protein complex stability
+GO id: GO:0006457, P:protein folding
+
+
+
+FOR GENE AT5g65010:
+
+1. Direct interactions:
+At4g18905
+At3g12670
+At4g26840
+At5g39320
+At4g15955
+At4g11240
+At5g44120
+At2g23610
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g47340
+
+3.1. KEGG annotations:
+KEGG id: ath00250, KEGG pathway: Alanine, aspartate and glutamate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01230, KEGG pathway: Biosynthesis of amino acids
+
+3.2. GO annotations:
+GO id: GO:0097164, P:ammonium ion metabolic process
+GO id: GO:0006529, P:asparagine biosynthetic process
+GO id: GO:0006541, P:glutamine metabolic process
+GO id: GO:0042538, P:hyperosmotic salinity response
+GO id: GO:0070981, P:L-asparagine biosynthetic process
+
+
+
+FOR GENE AT3g01500:
+
+1. Direct interactions:
+At5g42980
+At5g67480
+At2g43710
+At5g25260
+At5g56750
+At5g07280
+At2g28960
+At5g38660
+At3g59780
+At4g16620
+At5g19410
+At1g05640
+At4g30190
+At2g01680
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+KEGG id: ath00910, KEGG pathway: Nitrogen metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015976, P:carbon utilization
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:2000122, P:negative regulation of stomatal complex development
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0010119, P:regulation of stomatal movement
+GO id: GO:0010037, P:response to carbon dioxide
+GO id: GO:0009409, P:response to cold
+
+
+
+FOR GENE AT1g25230:
+
+1. Direct interactions:
+At2g30160
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00740, KEGG pathway: Riboflavin metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT2g34430:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009765, P:photosynthesis, light harvesting
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0009416, P:response to light stimulus
+
+
+
+FOR GENE AT1g18060:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT2g30600:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0016567, P:protein ubiquitination
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+
+
+
+FOR GENE AT4g33010:
+
+1. Direct interactions:
+At4g33010
+At1g79720
+At1g36340
+At3g62870
+At2g19970
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g68570
+
+3.1. KEGG annotations:
+KEGG id: ath00260, KEGG pathway: Glycine, serine and threonine metabolism
+KEGG id: ath00630, KEGG pathway: Glyoxylate and dicarboxylate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0006546, P:glycine catabolic process
+GO id: GO:0019464, P:glycine decarboxylation via glycine cleavage system
+GO id: GO:0046686, P:response to cadmium ion
+
+
+
+FOR GENE AT1g65490:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0071456, P:cellular response to hypoxia
+GO id: GO:0009617, P:response to bacterium
+GO id: GO:0015031, P:protein transport
+
+
+
+FOR GENE AT3g21670:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042128, P:nitrate assimilation
+GO id: GO:0010167, P:response to nitrate
+GO id: GO:0006207, P:'de novo' pyrimidine nucleobase biosynthetic process
+GO id: GO:0044205, P:'de novo' UMP biosynthetic process
+GO id: GO:0006520, P:cellular amino acid metabolic process
+
+
+
+FOR GENE AT4g27260:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath04075, KEGG pathway: Plant hormone signal transduction
+
+3.2. GO annotations:
+GO id: GO:0010252, P:auxin homeostasis
+GO id: GO:0010120, P:camalexin biosynthetic process
+GO id: GO:1901183, P:positive regulation of camalexin biosynthetic process
+GO id: GO:0009733, P:response to auxin
+
+
+
+FOR GENE AT1g12780:
+
+1. Direct interactions:
+At1g12780
+At1g63210
+At2g17380
+At4g23920
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00052, KEGG pathway: Galactose metabolism
+KEGG id: ath00520, KEGG pathway: Amino sugar and nucleotide sugar metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01250, KEGG pathway: Biosynthesis of nucleotide sugars
+
+3.2. GO annotations:
+GO id: GO:0045227, P:capsule polysaccharide biosynthetic process
+GO id: GO:0071555, P:cell wall organization
+GO id: GO:0006012, P:galactose metabolic process
+GO id: GO:0006364, P:rRNA processing
+GO id: GO:0033358, P:UDP-L-arabinose biosynthetic process
+GO id: GO:0006281, P:DNA repair
+GO id: GO:0009650, P:UV protection
+
+
+
+FOR GENE AT1g55480:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0010207, P:photosystem II assembly
+GO id: GO:0010206, P:photosystem II repair
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009611, P:response to wounding
+
+
+
+FOR GENE AT2g17880:
+
+1. Direct interactions:
+At4g17680
+At3g48150
+At3g49580
+At3g49570
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g02770
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT3g49160:
+
+1. Direct interactions:
+At3g49160
+At2g01760
+At1g71050
+At2g47710
+At2g42910
+At3g15420
+At2g36930
+At4g16143
+At5g67200
+At1g25320
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g28220
+
+3.1. KEGG annotations:
+KEGG id: ath00010, KEGG pathway: Glycolysis / Gluconeogenesis
+KEGG id: ath00620, KEGG pathway: Pyruvate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+KEGG id: ath01230, KEGG pathway: Biosynthesis of amino acids
+KEGG id: ath01240, KEGG pathway: Biosynthesis of cofactors
+
+3.2. GO annotations:
+GO id: GO:0006096, P:glycolytic process
+GO id: GO:0051321, P:meiotic cell cycle
+GO id: GO:0007064, P:mitotic sister chromatid cohesion
+
+
+
+FOR GENE AT4g21210:
+
+1. Direct interactions:
+At5g14800
+At1g79500
+At1g76050
+At2g33210
+At4g02930
+At1g32380
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g26740
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT5g14740:
+
+1. Direct interactions:
+At5g42980
+At1g23730
+At2g23070
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+KEGG id: ath00910, KEGG pathway: Nitrogen metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015976, P:carbon utilization
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0006865, P:amino acid transport
+
+
+
+FOR GENE AT4g37980:
+
+1. Direct interactions:
+At4g37980
+At2g16740
+At3g13720
+At1g10370
+At4g15770
+At5g43380
+At2g26750
+At2g32230
+At3g09580
+At2g47250
+At5g04140
+At4g34840
+At2g41220
+At3g05840
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g61520
+
+3.1. KEGG annotations:
+KEGG id: ath00940, KEGG pathway: Phenylpropanoid biosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0010597, P:green leaf volatile biosynthetic process
+GO id: GO:0009809, P:lignin biosynthetic process
+GO id: GO:0009617, P:response to bacterium
+GO id: GO:0033512, P:L-lysine catabolic process to acetyl-CoA via saccharopine
+
+
+
+FOR GENE AT1g29395:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0070417, P:cellular response to cold
+GO id: GO:0042631, P:cellular response to water deprivation
+GO id: GO:0009631, P:cold acclimation
+GO id: GO:0009737, P:response to abscisic acid
+
+
+
+FOR GENE AT2g39730:
+
+1. Direct interactions:
+At5g42980
+At1g55490
+At2g23070
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0010150, P:leaf senescence
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009753, P:response to jasmonic acid
+GO id: GO:0009416, P:response to light stimulus
+
+
+
+FOR GENE AT1g20020:
+
+1. Direct interactions:
+At1g60950
+At5g66190
+At4g22890
+At4g11960
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g02770
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0006260, P:DNA replication
+
+
+
+FOR GENE AT2g34420:
+
+1. Direct interactions:
+At3g47620
+At3g26090
+At4g37140
+At3g14290
+At3g62980
+At3g57870
+At4g26220
+At5g20850
+At3g44680
+At5g57550
+At3g48040
+At4g34840
+At1g01910
+At1g79870
+At5g50240
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g01530
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0032875, P:regulation of DNA endoreduplication
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT4g37800:
+
+1. Direct interactions:
+At3g26810
+At3g25800
+At4g02930
+At1g13320
+AtCg00020
+At4g24280
+At5g49910
+At4g32520
+At4g37550
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g47340
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042546, P:cell wall biogenesis
+GO id: GO:0071555, P:cell wall organization
+GO id: GO:0010411, P:xyloglucan metabolic process
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+
+
+
+FOR GENE AT1g70820:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0005975, P:carbohydrate metabolic process
+
+
+
+FOR GENE AT3g26740:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0007623, P:circadian rhythm
+
+
+
+FOR GENE AT4g28780:
+
+1. Direct interactions:
+At4g35580
+At1g27300
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0016042, P:lipid catabolic process
+
+
+
+FOR GENE AT1g12900:
+
+1. Direct interactions:
+At5g49560
+At1g50370
+At1g16240
+At1g52500
+At1g04750
+At4g28860
+At3g22320
+At3g11230
+At1g44820
+At2g34180
+At3g23600
+At1g72680
+At3g50860
+At3g28610
+At2g20290
+At3g46320
+At3g54670
+At4g00800
+At1g78960
+At3g12200
+At2g31900
+At1g32470
+At3g16565
+At2g40400
+At2g34890
+At5g54960
+At3g49920
+At1g25155
+At1g19660
+At1g34580
+At5g19320
+At3g27440
+Atcg00905
+At1g17810
+At4g01100
+At1g07660
+At1g06830
+At5g11920
+At3g59845
+At3g62710
+At5g49310
+At3g18190
+At5g26000
+At5g05920
+At1g24510
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g45780
+
+3.1. KEGG annotations:
+KEGG id: ath00710, KEGG pathway: Carbon fixation in photosynthetic organisms
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0006006, P:glucose metabolic process
+GO id: GO:0019253, P:reductive pentose-phosphate cycle
+GO id: GO:0008643, P:carbohydrate transport
+
+
+
+FOR GENE AT1g64680:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT2g25200:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT3g55800:
+
+1. Direct interactions:
+At5g42980
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+KEGG id: ath00710, KEGG pathway: Carbon fixation in photosynthetic organisms
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0016051, P:carbohydrate biosynthetic process
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0030388, P:fructose 1,6-bisphosphate metabolic process
+GO id: GO:0006002, P:fructose 6-phosphate metabolic process
+GO id: GO:0006000, P:fructose metabolic process
+GO id: GO:0006094, P:gluconeogenesis
+GO id: GO:0019253, P:reductive pentose-phosphate cycle
+GO id: GO:0019252, P:starch biosynthetic process
+GO id: GO:0005986, P:sucrose biosynthetic process
+GO id: GO:0005975, P:carbohydrate metabolic process
+
+
+
+FOR GENE AT4g21280:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009767, P:photosynthetic electron transport chain
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT5g15850:
+
+1. Direct interactions:
+At2g46340
+At1g53090
+At2g18915
+At5g56280
+At4g14110
+At1g71230
+At5g14250
+At5g42970
+At4g02570
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g46340
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009909, P:regulation of flower development
+GO id: GO:0000398, P:mRNA splicing, via spliceosome
+
+
+
+FOR GENE AT1g06680:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0019684, P:photosynthesis, light reaction
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT2g43550:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:0031640, P:killing of cells of other organism
+GO id: GO:0044063, P:modulation by symbiont of host nervous system process
+
+
+
+FOR GENE AT3g02730:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0045454, P:cell redox homeostasis
+GO id: GO:0043086, P:negative regulation of catalytic activity
+GO id: GO:0043085, P:positive regulation of catalytic activity
+GO id: GO:0006109, P:regulation of carbohydrate metabolic process
+GO id: GO:0009642, P:response to light intensity
+
+
+
+FOR GENE AT1g42970:
+
+1. Direct interactions:
+At1g42970
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00710, KEGG pathway: Carbon fixation in photosynthetic organisms
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0006006, P:glucose metabolic process
+GO id: GO:0019253, P:reductive pentose-phosphate cycle
+GO id: GO:0046686, P:response to cadmium ion
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009744, P:response to sucrose
+GO id: GO:0009073, P:aromatic amino acid family biosynthetic process
+GO id: GO:0008652, P:cellular amino acid biosynthetic process
+GO id: GO:0009423, P:chorismate biosynthetic process
+
+
+
+FOR GENE AT2g39470:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0010029, P:regulation of seed germination
+
+
+
+FOR GENE AT5g17300:
+
+1. Direct interactions:
+At2g43790
+At1g10210
+At3g45640
+At1g59580
+At5g19010
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g45780
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009734, P:auxin-activated signaling pathway
+GO id: GO:0007623, P:circadian rhythm
+GO id: GO:0010600, P:regulation of auxin biosynthetic process
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+GO id: GO:0016567, P:protein ubiquitination
+
+
+
+FOR GENE AT1g77490:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00053, KEGG pathway: Ascorbate and aldarate metabolism
+KEGG id: ath00480, KEGG pathway: Glutathione metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0034599, P:cellular response to oxidative stress
+GO id: GO:0010019, P:chloroplast-nucleus signaling pathway
+GO id: GO:0009631, P:cold acclimation
+GO id: GO:0042744, P:hydrogen peroxide catabolic process
+GO id: GO:0071588, P:hydrogen peroxide mediated signaling pathway
+GO id: GO:0000302, P:response to reactive oxygen species
+
+
+
+FOR GENE AT3g27690:
+
+1. Direct interactions:
+At5g12980
+At3g57870
+At4g26220
+At5g45870
+At1g01480
+At5g50240
+At5g40650
+At1g79870
+At3g48040
+At4g34840
+At1g51330
+At2g45240
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g61260
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0045893, P:positive regulation of transcription, DNA-templated
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+GO id: GO:0071215, P:cellular response to abscisic acid stimulus
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0009769, P:photosynthesis, light harvesting in photosystem II
+GO id: GO:1903428, P:positive regulation of reactive oxygen species biosynthetic process
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0090333, P:regulation of stomatal closure
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009269, P:response to desiccation
+GO id: GO:0010218, P:response to far red light
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009645, P:response to low light intensity stimulus
+GO id: GO:0010114, P:response to red light
+GO id: GO:0030104, P:water homeostasis
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT5g01015:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT1g14150:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009767, P:photosynthetic electron transport chain
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT1g64720:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT2g26080:
+
+1. Direct interactions:
+At2g26080
+At5g60340
+At4g11820
+At3g09820
+At5g38890
+At1g26140
+At3g62870
+At4g17730
+At1g02730
+At5g47435
+At3g06470
+Atcg00190
+At3g26690
+At5g10330
+At5g24410
+At2g40290
+At4g01800
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g68570
+
+3.1. KEGG annotations:
+KEGG id: ath00260, KEGG pathway: Glycine, serine and threonine metabolism
+KEGG id: ath00630, KEGG pathway: Glyoxylate and dicarboxylate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0019464, P:glycine decarboxylation via glycine cleavage system
+GO id: GO:0000398, P:mRNA splicing, via spliceosome
+GO id: GO:0006546, P:glycine catabolic process
+
+
+
+FOR GENE AT3g56940:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00860, KEGG pathway: Porphyrin and chlorophyll metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0015995, P:chlorophyll biosynthetic process
+GO id: GO:0009658, P:chloroplast organization
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:1901401, P:regulation of tetrapyrrole metabolic process
+
+
+
+FOR GENE AT4g28030:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006457, P:protein folding
+
+
+
+FOR GENE AT5g20250:
+
+1. Direct interactions:
+At4g29820
+At3g27960
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00052, KEGG pathway: Galactose metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0005975, P:carbohydrate metabolic process
+GO id: GO:0071456, P:cellular response to hypoxia
+GO id: GO:0009409, P:response to cold
+GO id: GO:0080167, P:response to karrikin
+GO id: GO:0006979, P:response to oxidative stress
+
+
+
+FOR GENE AT1g54040:
+
+1. Direct interactions:
+At4g23810
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0019762, P:glucosinolate catabolic process
+GO id: GO:0010150, P:leaf senescence
+GO id: GO:0080028, P:nitrile biosynthetic process
+GO id: GO:0009753, P:response to jasmonic acid
+
+
+
+FOR GENE AT3g21870:
+
+1. Direct interactions:
+At3g48750
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0007049, P:cell cycle
+GO id: GO:0051301, P:cell division
+GO id: GO:0000079, P:regulation of cyclin-dependent protein serine/threonine kinase activity
+
+
+
+FOR GENE AT3g48360:
+
+1. Direct interactions:
+At3g01770
+At1g26830
+At4g09570
+At1g35670
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g37610
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009738, P:abscisic acid-activated signaling pathway
+GO id: GO:0009734, P:auxin-activated signaling pathway
+GO id: GO:0007623, P:circadian rhythm
+GO id: GO:0051973, P:positive regulation of telomerase activity
+GO id: GO:0016567, P:protein ubiquitination
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+GO id: GO:0009737, P:response to abscisic acid
+GO id: GO:0009733, P:response to auxin
+GO id: GO:0009743, P:response to carbohydrate
+GO id: GO:0009409, P:response to cold
+GO id: GO:0042542, P:response to hydrogen peroxide
+GO id: GO:0009753, P:response to jasmonic acid
+GO id: GO:0010167, P:response to nitrate
+GO id: GO:0009751, P:response to salicylic acid
+GO id: GO:0009651, P:response to salt stress
+GO id: GO:0009611, P:response to wounding
+GO id: GO:0010182, P:sugar mediated signaling pathway
+
+
+
+FOR GENE AT1g61520:
+
+1. Direct interactions:
+At1g20610
+At5g19320
+At4g32850
+At2g16740
+At2g15910
+At2g22040
+At1g61010
+At4g19880
+At1g69380
+At1g71280
+At3g51460
+
+2. Indirect interactions (GENES FROM LIST):
+AT2g26080
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009645, P:response to low light intensity stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT2g43010:
+
+1. Direct interactions:
+At2g43010
+At1g69780
+At3g59060
+At5g60410
+At5g61380
+At2g18790
+At2g01570
+At1g09570
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g16250
+
+3.1. KEGG annotations:
+KEGG id: ath04075, KEGG pathway: Plant hormone signal transduction
+
+3.2. GO annotations:
+GO id: GO:0009704, P:de-etiolation
+GO id: GO:0009638, P:phototropism
+GO id: GO:0010161, P:red light signaling pathway
+GO id: GO:0010017, P:red or far-red light signaling pathway
+GO id: GO:0009585, P:red, far-red light phototransduction
+GO id: GO:0010600, P:regulation of auxin biosynthetic process
+GO id: GO:0010928, P:regulation of auxin mediated signaling pathway
+GO id: GO:0010244, P:response to low fluence blue light stimulus by blue low-fluence system
+
+
+
+FOR GENE AT5g22920:
+
+1. Direct interactions:
+At3g22950
+At4g09760
+At2g47760
+At3g22860
+At1g43170
+At5g01160
+At5g03290
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath04120, KEGG pathway: Ubiquitin mediated proteolysis
+
+3.2. GO annotations:
+GO id: GO:0016567, P:protein ubiquitination
+GO id: GO:1902456, P:regulation of stomatal opening
+GO id: GO:0006511, P:ubiquitin-dependent protein catabolic process
+
+
+
+FOR GENE AT1g78370:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00480, KEGG pathway: Glutathione metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0006749, P:glutathione metabolic process
+GO id: GO:0040008, P:regulation of growth
+GO id: GO:2000030, P:regulation of response to red or far red light
+GO id: GO:0009629, P:response to gravity
+GO id: GO:0009407, P:toxin catabolic process
+
+
+
+FOR GENE AT3g28220:
+
+1. Direct interactions:
+At3g54120
+At1g30080
+At1g36050
+At3g53190
+At2g45200
+At3g26200
+At5g20230
+At4g15620
+At5g06530
+At2g43700
+At3g15710
+At3g46890
+At5g42370
+At2g35520
+At4g14480
+At2g29180
+At5g43460
+At5g57810
+At5g51160
+At5g07475
+At4g04525
+At5g66830
+At1g11915
+At5g20520
+At2g01420
+At3g46370
+At4g28330
+At5g13580
+At1g10030
+At1g68380
+At1g27700
+At1g25320
+At5g55330
+At3g16670
+At3g22360
+At5g54230
+At3g15500
+At4g36410
+At2g36270
+At2g19580
+At3g59700
+At5g01960
+At5g16530
+At2g39890
+At5g50440
+At1g08590
+At1g54320
+At5g19570
+At4g12950
+At5g52050
+At2g48070
+At4g14420
+At5g24000
+At4g20790
+At1g44960
+At4g22830
+At5g55290
+At3g18450
+At2g24170
+At1g66340
+At5g19130
+At1g74370
+At1g49230
+At3g47780
+At3g13950
+At3g53210
+At1g54350
+At2g29020
+At4g20390
+At4g32600
+At5g15500
+At3g60720
+At2g28960
+At4g30660
+At3g55090
+At4g26770
+At2g41610
+At3g05360
+At1g62200
+At2g23093
+At3g53510
+At5g49130
+At1g57550
+At3g53810
+At1g33100
+At3g20190
+At1g01620
+At1g77380
+At5g11870
+At1g77110
+At1g57540
+At4g23220
+At2g02020
+At4g37220
+At2g38120
+At4g16620
+At5g41800
+At5g47530
+At2g43690
+At2g33250
+At5g10290
+At5g12860
+At2g03620
+At5g27370
+At5g27210
+At1g32210
+At1g72300
+At2g15970
+At2g37360
+At1g01230
+At4g04860
+At1g31420
+At5g58560
+At4g31840
+At3g55740
+At2g34250
+At2g01970
+At4g21680
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g38990
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT5g11070:
+
+1. Direct interactions:
+At4g23650
+At3g04110
+At3g13410
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT1g23205:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT1g68010:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00260, KEGG pathway: Glycine, serine and threonine metabolism
+KEGG id: ath00630, KEGG pathway: Glyoxylate and dicarboxylate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0071482, P:cellular response to light stimulus
+GO id: GO:0042631, P:cellular response to water deprivation
+GO id: GO:0009854, P:oxidative photosynthetic carbon pathway
+GO id: GO:0009873, P:ethylene-activated signaling pathway
+
+
+
+FOR GENE AT2g26740:
+
+1. Direct interactions:
+At3g51000
+At1g48270
+At1g12820
+At2g47510
+At4g29840
+At1g02500
+At5g63860
+At3g26030
+At2g24270
+At4g39330
+At5g45020
+At5g05310
+At1g48900
+At4g02930
+At3g20050
+At3g17240
+At5g14060
+At5g48930
+At4g20360
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g48300
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009733, P:response to auxin
+GO id: GO:0009414, P:response to water deprivation
+
+
+
+FOR GENE AT3g61470:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009645, P:response to low light intensity stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT4g28750:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT5g24210:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006629, P:lipid metabolic process
+
+
+
+FOR GENE AT1g71030:
+
+1. Direct interactions:
+At4g00480
+At1g63650
+At4g09820
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009718, P:anthocyanin-containing compound biosynthetic process
+GO id: GO:0030154, P:cell differentiation
+GO id: GO:0010023, P:proanthocyanidin biosynthetic process
+
+
+
+FOR GENE AT3g54050:
+
+1. Direct interactions:
+At3g62870
+At4g09570
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g68570
+
+3.1. KEGG annotations:
+KEGG id: ath00010, KEGG pathway: Glycolysis / Gluconeogenesis
+KEGG id: ath00030, KEGG pathway: Pentose phosphate pathway
+KEGG id: ath00051, KEGG pathway: Fructose and mannose metabolism
+KEGG id: ath00710, KEGG pathway: Carbon fixation in photosynthetic organisms
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01200, KEGG pathway: Carbon metabolism
+
+3.2. GO annotations:
+GO id: GO:0030388, P:fructose 1,6-bisphosphate metabolic process
+GO id: GO:0006002, P:fructose 6-phosphate metabolic process
+GO id: GO:0006000, P:fructose metabolic process
+GO id: GO:0006094, P:gluconeogenesis
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0009773, P:photosynthetic electron transport in photosystem I
+GO id: GO:0019253, P:reductive pentose-phosphate cycle
+GO id: GO:0009409, P:response to cold
+GO id: GO:0005986, P:sucrose biosynthetic process
+GO id: GO:0005985, P:sucrose metabolic process
+GO id: GO:0005975, P:carbohydrate metabolic process
+
+
+
+FOR GENE AT3g54890:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009644, P:response to high light intensity
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009645, P:response to low light intensity stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+GO id: GO:0006396, P:RNA processing
+
+
+
+FOR GENE AT1g72610:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006400, P:tRNA modification
+
+
+
+FOR GENE AT3g08940:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0006865, P:amino acid transport
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT5g62280:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT2g18700:
+
+1. Direct interactions:
+At1g50310
+At5g06290
+At1g76920
+At2g23070
+At5g65430
+At4g27090
+At3g48930
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g28220
+
+3.1. KEGG annotations:
+KEGG id: ath00500, KEGG pathway: Starch and sucrose metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+
+3.2. GO annotations:
+GO id: GO:0016311, P:dephosphorylation
+GO id: GO:0005992, P:trehalose biosynthetic process
+
+
+
+FOR GENE AT3g45780:
+
+1. Direct interactions:
+At3g45780
+At2g46230
+At4g07820
+At5g19830
+At1g44820
+At2g02950
+At1g32090
+At5g24840
+At2g32415
+At2g19750
+At2g01350
+At2g44860
+At3g28730
+At4g29360
+At5g16040
+At5g19510
+At5g15090
+At1g10210
+At3g08910
+At3g28710
+At5g38890
+At1g30580
+At4g31860
+At5g16170
+At2g16230
+At5g57870
+At1g66740
+At5g26250
+At5g22780
+At4g21480
+At1g17560
+At3g49420
+At5g59950
+At5g48880
+At5g06150
+At4g04695
+At5g66610
+At5g60980
+At3g54670
+At1g62880
+At1g78970
+At4g34430
+At4g04700
+At5g08160
+At1g80460
+At4g26090
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g14280
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009904, P:chloroplast accumulation movement
+GO id: GO:0009903, P:chloroplast avoidance movement
+GO id: GO:0007623, P:circadian rhythm
+GO id: GO:0010362, P:negative regulation of anion channel activity by blue light
+GO id: GO:0009638, P:phototropism
+GO id: GO:0046777, P:protein autophosphorylation
+GO id: GO:0006468, P:protein phosphorylation
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0010155, P:regulation of proton transport
+GO id: GO:0010119, P:regulation of stomatal movement
+GO id: GO:0009637, P:response to blue light
+GO id: GO:0050896, P:response to stimulus
+
+
+
+FOR GENE AT5g18670:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0000272, P:polysaccharide catabolic process
+GO id: GO:0042026, P:protein refolding
+
+
+
+FOR GENE AT1g28330:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009750, P:response to fructose
+GO id: GO:0009749, P:response to glucose
+GO id: GO:0009744, P:response to sucrose
+
+
+
+FOR GENE AT1g68570:
+
+1. Direct interactions:
+At3g62870
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g45780
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0010336, P:gibberellic acid homeostasis
+GO id: GO:0042128, P:nitrate assimilation
+GO id: GO:0006857, P:oligopeptide transport
+
+
+
+FOR GENE AT2g30950:
+
+1. Direct interactions:
+At5g42270
+At1g22920
+At2g25000
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g16250
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009658, P:chloroplast organization
+GO id: GO:0010205, P:photoinhibition
+GO id: GO:0048564, P:photosystem I assembly
+GO id: GO:0010206, P:photosystem II repair
+GO id: GO:0030163, P:protein catabolic process
+GO id: GO:0006508, P:proteolysis
+GO id: GO:0010304, P:PSII associated light-harvesting complex II catabolic process
+GO id: GO:0072593, P:reactive oxygen species metabolic process
+GO id: GO:0010027, P:thylakoid membrane organization
+
+
+
+FOR GENE AT3g62410:
+
+1. Direct interactions:
+At3g26650
+At5g42980
+At1g32060
+At1g22920
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0071454, P:cellular response to anoxia
+GO id: GO:0070417, P:cellular response to cold
+GO id: GO:0034605, P:cellular response to heat
+GO id: GO:0080153, P:negative regulation of reductive pentose-phosphate cycle
+GO id: GO:0018316, P:peptide cross-linking via L-cystine
+GO id: GO:0065003, P:protein-containing complex assembly
+GO id: GO:0019253, P:reductive pentose-phosphate cycle
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009744, P:response to sucrose
+
+
+
+FOR GENE AT4g33660:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:0031640, P:killing of cells of other organism
+
+
+
+FOR GENE AT5g35170:
+
+1. Direct interactions:
+At3g59790
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00230, KEGG pathway: Purine metabolism
+KEGG id: ath00730, KEGG pathway: Thiamine metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01240, KEGG pathway: Biosynthesis of cofactors
+
+3.2. GO annotations:
+GO id: GO:0006165, P:nucleoside diphosphate phosphorylation
+GO id: GO:0009142, P:nucleoside triphosphate biosynthetic process
+GO id: GO:0006139, P:nucleobase-containing compound metabolic process
+
+
+
+FOR GENE AT3g16250:
+
+1. Direct interactions:
+At1g22920
+At2g33880
+At3g48150
+At3g47620
+At3g02150
+At1g14920
+At2g23420
+At2g01570
+At3g53900
+At3g07780
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g09010
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009773, P:photosynthetic electron transport in photosystem I
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+
+
+
+FOR GENE AT1g09340:
+
+1. Direct interactions:
+At3g63140
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042631, P:cellular response to water deprivation
+GO id: GO:0009658, P:chloroplast organization
+GO id: GO:0007623, P:circadian rhythm
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0005996, P:monosaccharide metabolic process
+GO id: GO:0032544, P:plastid translation
+GO id: GO:0000272, P:polysaccharide catabolic process
+GO id: GO:0045893, P:positive regulation of transcription, DNA-templated
+GO id: GO:0045727, P:positive regulation of translation
+GO id: GO:0010468, P:regulation of gene expression
+GO id: GO:0009409, P:response to cold
+GO id: GO:0009611, P:response to wounding
+GO id: GO:0006364, P:rRNA processing
+
+
+
+FOR GENE AT3g63140:
+
+1. Direct interactions:
+At1g09340
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009658, P:chloroplast organization
+GO id: GO:0007623, P:circadian rhythm
+GO id: GO:0032544, P:plastid translation
+GO id: GO:0045893, P:positive regulation of transcription, DNA-templated
+GO id: GO:0045727, P:positive regulation of translation
+GO id: GO:0006364, P:rRNA processing
+
+
+
+FOR GENE AT1g76080:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0045454, P:cell redox homeostasis
+GO id: GO:0042742, P:defense response to bacterium
+GO id: GO:0010286, P:heat acclimation
+GO id: GO:0006979, P:response to oxidative stress
+GO id: GO:0009414, P:response to water deprivation
+
+
+
+FOR GENE AT3g46780:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0007623, P:circadian rhythm
+
+
+
+FOR GENE AT1g02640:
+
+1. Direct interactions:
+At2g21790
+At3g24560
+At1g05190
+At3g08840
+Atcg00830
+At3g55630
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0031222, P:arabinan catabolic process
+GO id: GO:0045493, P:xylan catabolic process
+GO id: GO:0005975, P:carbohydrate metabolic process
+
+
+
+FOR GENE AT2g33830:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009617, P:response to bacterium
+
+
+
+FOR GENE AT3g47340:
+
+1. Direct interactions:
+At1g30820
+At4g18900
+At4g26840
+At4g37550
+At5g54080
+At2g21880
+At4g24830
+At4g27040
+At5g45910
+At2g32290
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g16250
+
+3.1. KEGG annotations:
+KEGG id: ath00250, KEGG pathway: Alanine, aspartate and glutamate metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01230, KEGG pathway: Biosynthesis of amino acids
+
+3.2. GO annotations:
+GO id: GO:0006529, P:asparagine biosynthetic process
+GO id: GO:0009063, P:cellular amino acid catabolic process
+GO id: GO:0043617, P:cellular response to sucrose starvation
+GO id: GO:0006541, P:glutamine metabolic process
+GO id: GO:0070981, P:L-asparagine biosynthetic process
+GO id: GO:0009646, P:response to absence of light
+GO id: GO:0009750, P:response to fructose
+GO id: GO:0009749, P:response to glucose
+GO id: GO:0009744, P:response to sucrose
+GO id: GO:0006096, P:glycolytic process
+
+
+
+FOR GENE AT5g35630:
+
+1. Direct interactions:
+At4g28820
+At5g42980
+At1g02630
+At1g79870
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+KEGG id: ath00220, KEGG pathway: Arginine biosynthesis
+KEGG id: ath00250, KEGG pathway: Alanine, aspartate and glutamate metabolism
+KEGG id: ath00630, KEGG pathway: Glyoxylate and dicarboxylate metabolism
+KEGG id: ath00910, KEGG pathway: Nitrogen metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01230, KEGG pathway: Biosynthesis of amino acids
+
+3.2. GO annotations:
+GO id: GO:0007568, P:aging
+GO id: GO:0019676, P:ammonia assimilation cycle
+GO id: GO:0006542, P:glutamine biosynthetic process
+GO id: GO:0046686, P:response to cadmium ion
+GO id: GO:0006807, P:nitrogen compound metabolic process
+
+
+
+FOR GENE AT1g29910:
+
+1. Direct interactions:
+At3g47620
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g02770
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009750, P:response to fructose
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009733, P:response to auxin
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT1g69870:
+
+1. Direct interactions:
+At1g17280
+At3g13175
+At4g14455
+At1g14700
+At4g30500
+At1g69910
+At3g23000
+At1g63120
+At5g06320
+At5g52240
+At1g47640
+At2g22425
+At1g07860
+At5g11890
+At5g52420
+At1g34640
+At5g49630
+At4g30850
+At3g17000
+At5g37050
+At3g18800
+At5g52860
+At4g37680
+At3g12180
+At2g26180
+At5g49540
+At3g66654
+At1g44960
+At3g26370
+At1g04310
+At3g10980
+At1g77350
+At2g41705
+At1g16170
+At3g52070
+At1g71140
+At3g21580
+At1g29060
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g38990
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0042128, P:nitrate assimilation
+GO id: GO:0015706, P:nitrate transport
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+
+
+
+FOR GENE AT2g47930:
+
+1. Direct interactions:
+At1g10090
+At3g15710
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g69870
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0080167, P:response to karrikin
+
+
+
+FOR GENE AT4g02530:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0010206, P:photosystem II repair
+
+
+
+FOR GENE AT4g38840:
+
+1. Direct interactions:
+At5g59940
+At2g30020
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath04075, KEGG pathway: Plant hormone signal transduction
+
+3.2. GO annotations:
+GO id: GO:0009733, P:response to auxin
+GO id: GO:0009409, P:response to cold
+
+
+
+FOR GENE AT5g43750:
+
+1. Direct interactions:
+At3g46890
+At5g59650
+At5g04990
+At1g21240
+At5g37050
+At1g29060
+At1g02380
+At1g17280
+At3g10640
+At5g47180
+At2g43420
+At3g12180
+At4g20790
+At1g70760
+At5g35460
+At1g14360
+At2g22425
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g38990
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006979, P:response to oxidative stress
+
+
+
+FOR GENE AT3g50820:
+
+1. Direct interactions:
+At5g42980
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g43750
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0010205, P:photoinhibition
+GO id: GO:0019684, P:photosynthesis, light reaction
+GO id: GO:0010207, P:photosystem II assembly
+GO id: GO:0042549, P:photosystem II stabilization
+GO id: GO:0035304, P:regulation of protein dephosphorylation
+
+
+
+FOR GENE AT1g13930:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006338, P:chromatin remodeling
+GO id: GO:0045892, P:negative regulation of transcription, DNA-templated
+GO id: GO:2000779, P:regulation of double-strand break repair
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+GO id: GO:0009651, P:response to salt stress
+GO id: GO:0010115, P:regulation of abscisic acid biosynthetic process
+GO id: GO:0046686, P:response to cadmium ion
+GO id: GO:0009408, P:response to heat
+GO id: GO:0007165, P:signal transduction
+
+
+
+FOR GENE AT4g37610:
+
+1. Direct interactions:
+At1g26830
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g50820
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0016567, P:protein ubiquitination
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+GO id: GO:0009733, P:response to auxin
+GO id: GO:0010200, P:response to chitin
+GO id: GO:0009409, P:response to cold
+GO id: GO:0042542, P:response to hydrogen peroxide
+GO id: GO:0009751, P:response to salicylic acid
+
+
+
+FOR GENE AT1g76100:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT3g61260:
+
+1. Direct interactions:
+At4g35950
+At1g21240
+At2g26180
+At5g37050
+At3g12180
+At3g48040
+At3g55440
+At3g17210
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g38990
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0051607, P:defense response to virus
+GO id: GO:0051665, P:membrane raft localization
+GO id: GO:0009751, P:response to salicylic acid
+
+
+
+FOR GENE AT1g08380:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0009767, P:photosynthetic electron transport chain
+GO id: GO:0010028, P:xanthophyll cycle
+
+
+
+FOR GENE AT2g38210:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006520, P:cellular amino acid metabolic process
+GO id: GO:0042823, P:pyridoxal phosphate biosynthetic process
+GO id: GO:0008615, P:pyridoxine biosynthetic process
+
+
+
+FOR GENE AT4g04640:
+
+1. Direct interactions:
+At5g44520
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00190, KEGG pathway: Oxidative phosphorylation
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0006754, P:ATP biosynthetic process
+GO id: GO:0015986, P:ATP synthesis coupled proton transport
+GO id: GO:0009772, P:photosynthetic electron transport in photosystem II
+
+
+
+FOR GENE AT5g38990:
+
+1. Direct interactions:
+At3g18810
+At5g37890
+At4g10570
+At2g26180
+At1g14700
+At5g11890
+At1g29060
+At1g07860
+At3g20600
+At4g08480
+At1g12750
+At4g13000
+At4g32530
+At5g37050
+At1g17280
+At3g45290
+At1g11000
+At3g12180
+At1g53730
+At2g25790
+At3g17000
+At3g17020
+At1g33250
+At1g60940
+At5g06320
+At5g59650
+At4g14455
+At3g44930
+At2g28250
+At2g32380
+At4g30850
+At1g47640
+At4g20790
+
+2. Indirect interactions (GENES FROM LIST):
+AT3g61260
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0046777, P:protein autophosphorylation
+GO id: GO:0010038, P:response to metal ion
+
+
+
+FOR GENE AT1g29920:
+
+1. Direct interactions:
+At3g47620
+At1g74890
+At3g26090
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g01530
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009750, P:response to fructose
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT1g74730:
+
+1. Direct interactions:
+At4g02010
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006139, P:nucleobase-containing compound metabolic process
+GO id: GO:0090391, P:granum assembly
+GO id: GO:0010196, P:nonphotochemical quenching
+GO id: GO:0010027, P:thylakoid membrane organization
+
+
+
+FOR GENE AT3g05730:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:0031640, P:killing of cells of other organism
+
+
+
+FOR GENE AT4g02770:
+
+1. Direct interactions:
+At3g61150
+At4g30080
+At1g01260
+At1g09660
+At3g24140
+At3g08530
+At3g49580
+At1g15670
+At3g48150
+At4g17680
+At5g37670
+At5g24660
+At4g19700
+At5g32440
+At4g29930
+At5g61010
+At3g47620
+At4g22890
+At4g11960
+At2g23290
+At1g76850
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g29920
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0140547, P:acquisition of seed longevity
+GO id: GO:0015979, P:photosynthesis
+GO id: GO:0035556, P:intracellular signal transduction
+
+
+
+FOR GENE AT4g39710:
+
+1. Direct interactions:
+At4g13530
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g80440
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT5g48300:
+
+1. Direct interactions:
+At5g36890
+At3g09250
+At2g21590
+At4g39830
+At4g09670
+At3g17240
+At3g47010
+At5g23250
+At3g54820
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g02770
+
+3.1. KEGG annotations:
+KEGG id: ath00500, KEGG pathway: Starch and sucrose metabolism
+KEGG id: ath00520, KEGG pathway: Amino sugar and nucleotide sugar metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01250, KEGG pathway: Biosynthesis of nucleotide sugars
+
+3.2. GO annotations:
+GO id: GO:0005978, P:glycogen biosynthetic process
+GO id: GO:0048573, P:photoperiodism, flowering
+GO id: GO:0019252, P:starch biosynthetic process
+GO id: GO:0006457, P:protein folding
+
+
+
+FOR GENE AT5g48490:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009627, P:systemic acquired resistance
+GO id: GO:0042732, P:D-xylose metabolic process
+
+
+
+FOR GENE AT1g20440:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0009631, P:cold acclimation
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:0010286, P:heat acclimation
+GO id: GO:0009737, P:response to abscisic acid
+GO id: GO:0009409, P:response to cold
+GO id: GO:0006970, P:response to osmotic stress
+GO id: GO:0009414, P:response to water deprivation
+GO id: GO:0009415, P:response to water
+GO id: GO:0006284, P:base-excision repair
+
+
+
+FOR GENE AT5g02160:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0032055, P:negative regulation of translation in response to stress
+
+
+
+FOR GENE AT2g05540:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT3g62550:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0006355, P:regulation of transcription, DNA-templated
+GO id: GO:0009738, P:abscisic acid-activated signaling pathway
+GO id: GO:0009926, P:auxin polar transport
+GO id: GO:0009734, P:auxin-activated signaling pathway
+GO id: GO:0006952, P:defense response
+GO id: GO:0009873, P:ethylene-activated signaling pathway
+GO id: GO:0009789, P:positive regulation of abscisic acid-activated signaling pathway
+GO id: GO:0006470, P:protein dephosphorylation
+GO id: GO:0035304, P:regulation of protein dephosphorylation
+GO id: GO:0010119, P:regulation of stomatal movement
+GO id: GO:0009723, P:response to ethylene
+
+
+
+FOR GENE AT1g14280:
+
+1. Direct interactions:
+At2g02950
+
+2. Indirect interactions (GENES FROM LIST):
+AT5g48300
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0048366, P:leaf development
+GO id: GO:0009638, P:phototropism
+GO id: GO:0009585, P:red, far-red light phototransduction
+
+
+
+FOR GENE AT2g43100:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00290, KEGG pathway: Valine, leucine and isoleucine biosynthesis
+KEGG id: ath00966, KEGG pathway: Glucosinolate biosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+KEGG id: ath01110, KEGG pathway: Biosynthesis of secondary metabolites
+KEGG id: ath01210, KEGG pathway: 2-Oxocarboxylic acid metabolism
+
+3.2. GO annotations:
+GO id: GO:0009082, P:branched-chain amino acid biosynthetic process
+GO id: GO:0019761, P:glucosinolate biosynthetic process
+GO id: GO:0009098, P:leucine biosynthetic process
+
+
+
+FOR GENE AT4g09010:
+
+1. Direct interactions:
+At3g53900
+
+2. Indirect interactions (GENES FROM LIST):
+AT1g14280
+
+3.1. KEGG annotations:
+KEGG id: ath00053, KEGG pathway: Ascorbate and aldarate metabolism
+KEGG id: ath00480, KEGG pathway: Glutathione metabolism
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0034599, P:cellular response to oxidative stress
+GO id: GO:0042744, P:hydrogen peroxide catabolic process
+GO id: GO:0000302, P:response to reactive oxygen species
+
+
+
+FOR GENE AT5g49360:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0031222, P:arabinan catabolic process
+GO id: GO:0010214, P:seed coat development
+GO id: GO:0045493, P:xylan catabolic process
+GO id: GO:0005975, P:carbohydrate metabolic process
+
+
+
+FOR GENE AT1g30380:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT1g78460:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT3g16140:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+KEGG id: ath00195, KEGG pathway: Photosynthesis
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0015979, P:photosynthesis
+
+
+
+FOR GENE AT4g12310:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+
+
+
+FOR GENE AT5g01530:
+
+1. Direct interactions:
+At3g26090
+
+2. Indirect interactions (GENES FROM LIST):
+AT4g09010
+
+3.1. KEGG annotations:
+KEGG id: ath00196, KEGG pathway: Photosynthesis - antenna proteins
+KEGG id: ath01100, KEGG pathway: Metabolic pathways
+
+3.2. GO annotations:
+GO id: GO:0009768, P:photosynthesis, light harvesting in photosystem I
+GO id: GO:0018298, P:protein-chromophore linkage
+GO id: GO:0009416, P:response to light stimulus
+GO id: GO:0009765, P:photosynthesis, light harvesting
+
+
+
+FOR GENE AT5g58260:
+
+1. Direct interactions:
+
+2. Indirect interactions (GENES FROM LIST):
+
+3.1. KEGG annotations:
+
+3.2. GO annotations:
+GO id: GO:0050832, P:defense response to fungus
+GO id: GO:0010258, P:NADH dehydrogenase complex (plastoquinone) assembly

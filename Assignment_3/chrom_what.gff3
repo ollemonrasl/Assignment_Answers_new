@@ -1,0 +1,6 @@
+##gff-version 3
+3	BioRuby	cttctt_repeat	5468210	5468215	.	-	.	exon_id=AT3G16140.1.exon1
+4	BioRuby	cttctt_repeat	7310850	7310855	.	-	.	exon_id=AT4G12310.1.exon2
+5	BioRuby	cttctt_repeat	209115	209120	.	+	.	exon_id=AT5G01530.1.exon1
+5	BioRuby	cttctt_repeat	209111	209116	.	+	.	exon_id=AT5G01530.1.exon2
+5	BioRuby	cttctt_repeat	23561081	23561086	.	-	.	exon_id=AT5G58260.1.exon4
